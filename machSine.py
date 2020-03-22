@@ -17,6 +17,7 @@ class MachSine:
         give =  int(input("Take:"))
         price = int(input("Cost:"))
         change = 0
+        print()
 
         # Post change
         if (give > price):

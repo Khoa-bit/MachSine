@@ -23,10 +23,13 @@ while True:
         machsine.change_money()
 
     elif action == "2":
+        print("====================Read Wallet====================")
         wallet.read_wallet()
     elif action == "3":
-        pass
+        print("====================Restock Wallet====================")
+        wallet.restock_wallet()
     else:
+        print("Quit.")
         break
     
     # Wait for user
