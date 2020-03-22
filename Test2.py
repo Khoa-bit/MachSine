@@ -1,4 +1,7 @@
-for i in range(10, 0, -1):
-	print(i, end=" ")
-print()
-print()
+ok = [2]
+uk = ok
+print(ok)
+print(uk)
+ok[0] += 1
+print(ok)
+print(uk)
