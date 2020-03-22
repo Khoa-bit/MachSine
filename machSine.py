@@ -86,6 +86,3 @@ class MachSine:
         filename = 'wallet.json'
         with open(filename, 'w') as f:
             json.dump(self.wallet, f)
-
-        print()
-        input("Press any key to continue.")
