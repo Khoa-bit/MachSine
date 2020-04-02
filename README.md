@@ -7,7 +7,7 @@ The package includes 2 version:
 
 To try out the software, please execute "machine2.0.py"
 
-What I have learned:
+__What I have learned:__
 - How to use .json to store data.
 - Improve objects oriented programming skill.
 - List and dictionary in Python are pointers.
